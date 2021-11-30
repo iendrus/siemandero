@@ -8,5 +8,6 @@ namespace siemandero
         int b = 4;
         int c = 2;
         int x = 33;
+        int y = 7895;
     }
 }
