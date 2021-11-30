@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "siemandero", "siemandero\siemandero.csproj", "{AE7238FF-1E8F-4BEA-BFCC-3141C55B163F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE7238FF-1E8F-4BEA-BFCC-3141C55B163F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE7238FF-1E8F-4BEA-BFCC-3141C55B163F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE7238FF-1E8F-4BEA-BFCC-3141C55B163F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE7238FF-1E8F-4BEA-BFCC-3141C55B163F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1BE7401-51C1-4DB2-A19E-A1EA02D00A49}
+	EndGlobalSection
+EndGlobal
